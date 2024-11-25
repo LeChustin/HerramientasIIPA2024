@@ -13,3 +13,5 @@ lechuga: con el comando git Branch -b nombre_de_rama
 Paul: y como subo todos mis cambios al repositorio?
 
 lechuga: haciendo un "git add ." y un "git push"
+
+Paul: ok, y si quisiera bajar un repositorio de GitHub con que comando debo hacerlo?

@@ -3,3 +3,5 @@ Paul: para que sirve el fetch?
 lechuga: para actualizar las referencias del repositorio
 
 Paul: con que comando se cambia de rama?
+
+lechuga: git checkout nombre_de_rama

@@ -7,3 +7,5 @@ Paul: con que comando se cambia de rama?
 lechuga: git checkout nombre_de_rama
 
 Paul: y entonces como creo una nueva rama?
+
+lechuga: con el comando git Branch -b nombre_de_rama
